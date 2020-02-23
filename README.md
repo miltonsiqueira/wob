@@ -8,6 +8,7 @@ Show the best option for buying using value per unit meter.
 
 - NodeJS (https://nodejs.org/)
 - [React App](https://create-react-app.dev/)
+- Bootstrap
 
 ### Install
 
