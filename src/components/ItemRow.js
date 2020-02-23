@@ -3,7 +3,7 @@ import React from 'react'
 export default function ItemRow(props) {
     return (
         <div>
-            <span>Item {props.index}}</span>
+            <span>Item {props.index}</span>
             <select>
             <option>kg</option>
             <option>g</option>
